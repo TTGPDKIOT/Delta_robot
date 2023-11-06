@@ -1,0 +1,7 @@
+image: /home/iot/delta_ws/src/delta_robot/maps/map_29_08.pgm
+resolution: 0.050000
+origin: [-100.000000, -100.000000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
